@@ -1,2 +1,3 @@
 # Lucero1984.github.io
+# Lucero Rivera
 Analista de Datos con Doctorado en Ciencias y experiencia en el manejo, limpieza y visualización de grandes volúmenes de información. Competente en Python, SQL y Power BI para transformar datos complejos en insights estratégicos. Mi formación científica me ha dado habilidades en estadística avanzada, modelado predictivo y comunicación de resultados a audiencias técnicas y no técnicas. Interesada en aplicar mis capacidades analíticas en entornos empresariales para optimizar procesos y apoyar la toma de decisiones.
